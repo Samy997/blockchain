@@ -1,0 +1,24 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samy997/blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "typescript": "^4.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Samy997/blockchain/issues"
+  },
+  "homepage": "https://github.com/Samy997/blockchain#readme"
+}
